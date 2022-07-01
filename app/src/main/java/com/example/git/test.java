@@ -1,4 +1,6 @@
 package com.example.git;
 
-public class test {
+import android.app.Application;
+
+public class test extends Application {
 }
